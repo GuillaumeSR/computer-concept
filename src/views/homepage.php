@@ -2,7 +2,7 @@
   <body>
     <main>
         <div class="col-3">
-          <div class="row"><a href="<?= 'personnal-computer.php'?>">Personnal computer</a></div>
+          <div class="row"><a href="?page=personnal_computer">Personnal computer</a></div>
         </div>
         <div class="col-9">
           <div class="row">
