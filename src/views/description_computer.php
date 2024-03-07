@@ -1,8 +1,8 @@
 <div class="container">
   
   <div class="first-cadre">
-    <img src="" alt="">
-    <button><a href="">Ajouter au Panier</a></button>
+    <img src="/computer-concept/assets/img/logo2.jpg" alt="">
+    <button><a href="?page=...">Ajouter au Panier</a></button>
   </div>
 
   <div class="descript-product">
