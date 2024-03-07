@@ -11,6 +11,10 @@ body {
   flex-direction: column;
 }
 
+.container {
+  padding: 4% 15%;
+}
+
 .logo {
   width: 100px;
   height: 100px;
@@ -26,11 +30,31 @@ body {
   margin-bottom: 4%;
 }
 
+.navbar-brand {
+  padding-left: 48%;
+}
+
+.card-body {
+  background-color: rgba(180, 166, 231, 0.705);
+}
+
+/* .card-img-top {
+  padding: 12% 12%;
+} */
+
+.card-title {
+  text-align: center;
+}
+
+.card-text {
+  padding-left: 3%;
+}
+
 footer {
   background-color:#121212;
   color: white;
   text-align: center;
-  padding: 10px;
+  padding: 5px;
   position: fixed;
   bottom: 0;
   width: 100%;
