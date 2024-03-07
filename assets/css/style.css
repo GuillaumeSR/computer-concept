@@ -59,3 +59,7 @@ footer {
   bottom: 0;
   width: 100%;
 }
+
+.container{
+  background-color: bisque;
+}

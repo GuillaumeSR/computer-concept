@@ -10,8 +10,8 @@
   </div>
 
   <div class="actions">
-    <button><a href=""></a> Payer </button>
-    <button><a href=""></a> Modifier </button>
+    <button><a href=""> Payer </a></button>
+    <button><a href=""> Modifier </a></button>
   </div>
 
 </div>
