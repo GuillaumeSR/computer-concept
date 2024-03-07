@@ -2,7 +2,7 @@
   
   <div class="first-cadre">
     <img src="/computer-concept/assets/img/logo2.jpg" alt="">
-    <a href="?page=panier" class="btn btn-primary">panier</a>
+    <a href="?page=panier" class="btn btn-primary">Ajouter au panier</a>
   </div>
 
   <div class="descript-product">
