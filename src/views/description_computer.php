@@ -10,8 +10,8 @@
   </div>
 
   <div class="actions">
-    <button><a href="panier"></a> Payer </button>
-    <button><a href=""></a> Modifier </button>
+    <button><a href="?page=panier" class="link-offset-2 link-underline link-underline-opacity-0"> Payer </a></button>
+    <button><a href="?page=components" class="link-success link-offset-2 link-underline link-underline-opacity-0"> Modifier </a></button>
   </div>
 
 </div>
