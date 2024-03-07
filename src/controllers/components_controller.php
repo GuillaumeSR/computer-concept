@@ -1,3 +1,3 @@
 <?php
 
-require '../src/views/components_controller.php';
+require '../src/views/components.php';
