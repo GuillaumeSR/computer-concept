@@ -1,7 +1,7 @@
 <?php
 
 $availableRoutes = [
-	'homepage'
+	'homepage', 'config', 'my_config'
 ];
 
 $route = 'homepage';
