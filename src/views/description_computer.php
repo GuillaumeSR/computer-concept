@@ -2,7 +2,7 @@
   
   <div class="first-cadre">
     <img src="/computer-concept/assets/img/logo2.jpg" alt="">
-    <button><a href="?page=...">Ajouter au Panier</a></button>
+    <a href="?page=panier" class="btn btn-primary">panier</a>
   </div>
 
   <div class="descript-product">
@@ -10,7 +10,7 @@
   </div>
 
   <div class="actions">
-    <button><a href=""></a> Payer </button>
+    <button><a href="panier"></a> Payer </button>
     <button><a href=""></a> Modifier </button>
   </div>
 
