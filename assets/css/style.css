@@ -35,3 +35,9 @@ footer {
   bottom: 0;
   width: 100%;
 }
+
+.middle {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+}
