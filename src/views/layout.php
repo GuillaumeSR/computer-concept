@@ -12,7 +12,7 @@
 <header>
 <nav class="navbar">
   <div class="container-fluid">
-    <a class="navbar-brand" href="#">
+    <a class="navbar-brand" href="?page=homepage">
       <img src="../assets/img/logo.png" alt="Logo" width="80" height="50" class="d-inline-block align-text-top">
     </a>
   </div>
