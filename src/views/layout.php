@@ -18,7 +18,7 @@
   <?php require '../src/controllers/' . $route . '_controller.php'; ?>
 </main>
 <footer>
-<p>&copy; 2024 FastCrous. All rights reserved.</p>
+<p>&copy; 2024 ComputerConcept. All rights reserved.</p>
 </footer>
 </body>
 </html>
